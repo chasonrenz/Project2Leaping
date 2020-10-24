@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/chasonrenz/Project2Leaping/issues"
   },
-  "homepage": "https://github.com/chasonrenz/Project2Leaping#readme"
+  "homepage": "https://github.com/chasonrenz/Project2Leaping#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
